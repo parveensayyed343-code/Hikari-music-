@@ -1,8 +1,8 @@
 {
   "name": "tgvcbot",
-  "version": "1.0.0",
-  "description": "Telegram Bot to Play Music in Voice Chat",
-  "private": true,
+   "version": "1.0.0",
+   "description": "Telegram Bot to Play Music in Voice Chat",
+    "private": true,
   "scripts": {
     "build": "npm install",
     "start": "node bot.js",
