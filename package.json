@@ -1,12 +1,11 @@
 {
-  "name": "tgvcbot-turborepo",
-  "version": "0.0.0",
+  "name": "tgvcbot",
+  "version": "1.0.0",
   "description": "Telegram Bot to Play Music in Voice Chat",
   "private": true,
   "scripts": {
-  "build": "npm install",
-  "start": "node index.js"
-}
+    "build": "npm install",
+    "start": "node index.js",
     "prepare": "husky install"
   },
   "author": {
