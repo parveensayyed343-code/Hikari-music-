@@ -22,13 +22,13 @@
     "turbo": "1.4.6",
     "eslint": "8.20.0",
     "eslint-config-prettier": "8.5.0"
-  },
+  }
   "lint-staged": {
     "**/*.ts": [
       "eslint --fix",
       "prettier --write"
     ]
-  },
+  }
   "pnpm": {
     "peerDependencyRules": {
       "ignoreMissing": [
